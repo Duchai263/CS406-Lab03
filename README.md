@@ -1,5 +1,10 @@
 # CS406-Lab03  
 # Installation  
+Create a virtual environment using  
+`python -m venv venv`  
+activate `venv` by  
+`venv/scripts/activate`
+
 Clone repo and install python and install requirements with  
 `$ pip install -r requirements.txt`  
 # Usage  
