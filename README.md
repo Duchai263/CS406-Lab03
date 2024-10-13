@@ -14,8 +14,8 @@ and go to `http://127.0.0.1:5000/`
 
 Upload an image  
 Things this repo do:  
-1.  Creating noise ( salt and pepper 10% each)
-2.  Denoising
+1.  Creating noise (salt and pepper 10% each)
+2.  Denoising (median and mean blur)
 3.  Shaprening
 4.  Edge Detection(with sobel, canny edge, prewitt )
 #### Note:  
